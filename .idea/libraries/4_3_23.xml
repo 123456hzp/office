@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="4.3.23">
+    <CLASSES>
+      <root url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.23.RELEASE" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.23.RELEASE" recursive="false" />
+  </library>
+</component>
